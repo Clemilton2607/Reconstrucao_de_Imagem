@@ -1,4 +1,6 @@
 # Reconstrucao de Imagem utilizando Deep Learning
+Hodiernamente, as imagens hiper espectrais tem se ganhado destaque na sociedade por está presente em diversas áreas (militar, industrial e científica), uma vez que a mesma tem capacidade de capturar e processar uma imagem em um grande número de comprimento de ondas, até mesmo os que estão invisíveis a olho nu. Todavia, a reconstrução de imagens hiper espectrais acaba sendo apenas aplicada em empresas e não se tem um fácil acesso à tal reconstrução pelo fato dos aparelhos possuírem um alto valor no mercado. 
+Nesse viés, pode-se tornar viável desenvolver um sistema de baixo custo de imagem hiper espectral utilizando reconstrução espectral baseada em deep learnig. Sendo assim, o projeto consiste em desenvolver um protótipo que fará a integração lógica entre um anel de led, juntamente com uma câmera multicanal e um raspberry pi 4 para a criação de um dataset que posteriormente será utilizado em uma rede neural para realizar a reconstrução das imagens.
 
 # 1-Protótipo
 Para realizar esse projeto, montei um protótipo utilizando um raspberry pi4, anel de leds e uma câmera multicanal.
