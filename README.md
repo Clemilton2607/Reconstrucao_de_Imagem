@@ -43,5 +43,5 @@ Para teste iniciais, eu primeiramente trabalhei com reconstrução de imagens ut
 RESULTADOS
 - teste 01MSE:0.0417
 - Auto. CONV 01 - MSE:0.01398
-- Auto. CONV 02 - MSE 0.00978
-- Auto. CONV 03 - MSE: 0.017352
+- Auto. CONV 02 - MMSE: 0.017352
+- Teste 04 - MSE 0.00978
