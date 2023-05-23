@@ -28,4 +28,20 @@ A adição de camadas convolucionais ao autoencoder convencional permite lidar c
 ![image](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/80e2bbbb-c40f-4d6b-b361-1c23ec36665b)
 
 # 4-Testes iniciais
-## 4.1 Testte 01
+Para teste iniciais, eu primeiramente trabalhei com reconstrução de imagens utilizando datasets encontrados na internet
+## Testte Piloto
+![image](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/434d52bd-6178-4c0e-b751-8c8ebbe9ab1c)
+## Testte 01
+![image](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/0ac8b20d-90b6-4ac2-aa1d-99d893b1cd71)
+## Testte 02
+![image](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/967a3b85-c07e-43cb-8ce9-fdd39dc86909)
+## Teste 03
+![image](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/9eab433f-cd3d-4fb4-acff-f88991253522)
+## Teste 04
+![image](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/eaaeff06-2c56-4d69-915c-43dfc73041e5)
+## Resultados dos testes iniciais
+RESULTADOS
+- teste 01MSE:0.0417
+- Auto. CONV 01 - MSE:0.01398
+- Auto. CONV 02 - MSE 0.00978
+- Auto. CONV 03 - MSE: 0.017352
