@@ -4,14 +4,14 @@ Nesse viés, pode-se tornar viável desenvolver um sistema de baixo custo de ima
 
 # 1-Protótipo
 Para realizar esse projeto, montei um protótipo utilizando um raspberry pi4, anel de leds e uma câmera multicanal.
-Esses itens são necessários, pois iremos fazer a captura de imagens RGB para compor o nosso dataset.
+Esses itens são necessários, pois iremos fazer a captura de imagens 150x150 em RGB para realizar testes e posteriormente montar um datastet.
 
 ![image](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/1a06b60f-48b8-4fc7-ae7f-4379595539e2)
 
 
 # 2-Imagens Capturadas
 Depois de montar o protótipo e desenvolver a biblioteca dos componentes, decidi fazer a captura de algumas imagens para teste
-
+OBS: As imagens das figuras estão na dimensão 1920 x 1080
 ![image](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/0e6e7472-8f14-408a-bade-a656093614c2)
 ![image](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/e539489f-64bf-4a0b-a93e-0e4997366155)
 ![image](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/b67ec94a-13d0-460b-b490-e6df86825f72)
@@ -27,7 +27,7 @@ A adição de camadas convolucionais ao autoencoder convencional permite lidar c
 
 ![image](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/80e2bbbb-c40f-4d6b-b361-1c23ec36665b)
 
-# 4-Testes iniciais
+# 4-Testes iniciais utilizando a biblioteca Cifar10
 Para teste iniciais, eu primeiramente trabalhei com reconstrução de imagens utilizando datasets encontrados na internet
 ## Testte Piloto
 ![image](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/434d52bd-6178-4c0e-b751-8c8ebbe9ab1c)
@@ -40,13 +40,13 @@ Para teste iniciais, eu primeiramente trabalhei com reconstrução de imagens ut
 ## Teste 03
 ![image](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/eaaeff06-2c56-4d69-915c-43dfc73041e5)
 
-## Resultados dos testes iniciais
+## 4.1 Resultados dos testes iniciais
 RESULTADOS
 - Teste 01- MMSE: 0.017352
 - Teste 02 - MSE: 0.01398
 - Teste 03 - MSE: 0.00978
 
-# Testes Utilizando dataset RGB
+# 5- Testes Utilizando imagens com apenas 3 comprimentos de onda (RGB)
 Imagem Original
 
 ![image](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/a9785a36-4655-4ad8-9967-3acf7d960390)
@@ -56,4 +56,12 @@ Imagem Reconstruidas
 ![image](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/505436c9-24a3-48eb-a207-83ea6c9a660e)
 
 ![image](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/133ef034-fcbc-499a-9f3d-381446bf6cf1)
+
+# 6 - Testes utilizando imagens com 7 comprimentos de onda
+![Teste_01](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/fd13f6ce-ab89-41d8-b8a2-801c7ea432e9)
+
+![Teste_02](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/4aa52338-658e-495f-ac5a-dec84b44b493)
+
+![Teste_05](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/81753ab5-0348-459c-84b8-34891bb09b4f)
+
 
