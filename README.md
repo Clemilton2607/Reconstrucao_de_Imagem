@@ -65,7 +65,12 @@ OBS: As imagens das figuras estão na dimensão 1920 x 1080
 # 7-Dataset
 Levando em consideração o pouco tempo de duração do projeto, eu optei por utilizar um dataset da plataforma Kaggle com imagens de paisagens com dimensões de 150x150.
 
-![0](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/8cf4a226-ff22-4dd3-87a8-304cd7ac2635) ![2](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/daa7200a-83ec-4aa2-890e-88d39252091c)
+![0](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/8cf4a226-ff22-4dd3-87a8-304cd7ac2635) ![2](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/daa7200a-83ec-4aa2-890e-88d39252091c) ![1](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/367f2030-53ab-44ca-bf09-f4c5160f3abe) ![6](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/c3fc6a01-3f3f-43a6-b88e-4791f516af6b) ![10](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/7f212c62-0953-43e1-871c-7786d5fb8bbc) ![53](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/1e9d9916-4de1-4982-8e4b-e3eb38e0f1e4) ![81](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/1642de46-8a69-431f-9692-956949f73466)
+
+
+
+
+
 
 # 8-Pré-processamento
 Na parte de pré-processamento, eu apliquei filtros variando o comprimento de onda em 400-700nm e posteriormente apliquei a normalização MinMax para transformar os valores de [0-255] a [0-1].
