@@ -67,6 +67,15 @@ Levando em consideração o pouco tempo de duração do projeto, eu optei por ut
 # 8-Pré-processamento
 Na parte de pré-processamento, eu apliquei filtros variando o comprimento de onda em 400-700nm e posteriormente apliquei a normalização MinMax para transformar os valores de [0-255] a [0-1].
 
+![0_filtrada_amarelo](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/dff1515d-34b1-4ce7-8ec0-0e8383af3648) ![0_filtrada_azul](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/34d13c77-e26d-450b-a382-22fb135be591) ![0_filtrada_ciano](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/3ebf2aeb-b2a4-4456-aa6e-1d0c40d06108) ![0_filtrada_laranja](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/170e7b2a-2330-4830-8497-377dc2fac20e) ![0_filtrada_verde](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/aac89ecf-08b4-4e7b-970f-24708db2ce9b) ![0_filtrada_vermelho](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/bb3b6f74-11c7-4bf0-81ba-a64edda261dc) ![0_filtrada_violeta](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/512cff93-3bc1-4dd5-acac-f8a6e7f79827)
+
+
+
+
+
+
+
+
 # 9-Deep Learning
 ## 9.1 Autoencoder 
 Um autoencoder é um tipo de rede neural artificial usada para aprender codificações eficientes de dados não rotulados. Um autoencoder aprende duas funções: uma função de codificação que transforma os dados de entrada e uma função de decodificação que recria os dados de entrada da representação codificada.
