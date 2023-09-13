@@ -18,19 +18,19 @@ Para entender um pouco sobre a temática do projeto, temos que entender alguns t
 
 # 2-Imagem Multiespectral x Imagem Hiperespectral
 ## 2.1 Imagem Multiespectral
--O seu termo em inglês é Multispectral Imaging (MSI).
--São formadas por bandas discretizadas e variam entre 3-20 bandas. 
--Resolução espectral limitada
--Processamento mais simples
--São frequentemente utilizsadas no sensoriamento remoto
+- O seu termo em inglês é Multispectral Imaging (MSI).
+- São formadas por bandas discretizadas e variam entre 3-20 bandas. 
+- Resolução espectral limitada
+- Processamento mais simples
+- São frequentemente utilizsadas no sensoriamento remoto
 
 ## 2.2 Imagem Hiperespectral
--O seu termo em inglês é Hyperspectral Imaging (HSI).
--São formadas por bandas contíguas, possuindo centenas ou até mesmo milhares de bandas. 
--Captura e processamento de uma imagem em um grande número de comprimentos de onda.
--Capacidade de discriminação espectral
--Aplicações avançadas: detecção de minerais, identificação de poluentes, análise de solos, monitoramento da saúde das plantas e muito mais.
--Processamento complexo
+- O seu termo em inglês é Hyperspectral Imaging (HSI).
+- São formadas por bandas contíguas, possuindo centenas ou até mesmo milhares de bandas. 
+- Captura e processamento de uma imagem em um grande número de comprimentos de onda.
+- Capacidade de discriminação espectral
+- Aplicações avançadas: detecção de minerais, identificação de poluentes, análise de solos, monitoramento da saúde das plantas e muito mais.
+- Processamento complexo
 
 ![image](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/29689da1-1bf1-4d07-be49-7191fdafeec7)
 
