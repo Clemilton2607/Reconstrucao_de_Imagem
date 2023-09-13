@@ -1,5 +1,4 @@
-# Sistema de baixo custo de imagem hiper espectral usando reconstrução espectral baseada em deep learning (Reconstrução Hiper Espectral)
-## PIBIC-CNPq
+# Sistema de baixo custo de imagem hiper espectral usando reconstrução espectral baseada em deep learning (Reconstrução Hiper Espectral) - PIBIC CNPq
 Pesquisador: Clemilton Barroso de Souza Furtado
 
 # Redes Sociais
