@@ -61,7 +61,7 @@ OBS: As imagens das figuras estão na dimensão 1920 x 1080
 ![image](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/b67ec94a-13d0-460b-b490-e6df86825f72)
 
 # 6- Diagrama de Blocos 
-![image](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/4ed18333-fc42-40e2-8137-5017787a2330)
+![image](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/334c4ce0-05e3-4029-9a54-08ec76e7587b)
 
 # 7-Dataset
 Levando em consideração o pouco tempo de duração do projeto, eu optei por utilizar um dataset da plataforma Kaggle com imagens de paisagens com dimensões de 150x150.
