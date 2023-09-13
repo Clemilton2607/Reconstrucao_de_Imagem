@@ -1,5 +1,10 @@
-# Sistema de baixo custo de imagem hiper espectral usando reconstrução espectral baseada em deep learning (Reconstrução Hiper Espectral) 
+# Sistema de baixo custo de imagem hiper espectral usando reconstrução espectral baseada em deep learning (Reconstrução Hiper Espectral)
+## PIBIC-CNPq
 Pesquisador: Clemilton Barroso de Souza Furtado
+
+# Redes Sociais
+Instagram: @clemiltonf_
+linkedin: https://www.linkedin.com/in/clemilton-furtado/
 
 # Reconstrucao de Imagem utilizando Deep Learning
 Hoje em dia, as imagens hiper espectrais tem se ganhado destaque na sociedade por está presente em diversas áreas (militar, industrial e científica), uma vez que a mesma tem capacidade de capturar e processar uma imagem em um grande número de comprimento de ondas, até mesmo os que estão invisíveis a olho nu. Todavia, a reconstrução de imagens hiper espectrais acaba sendo apenas aplicada em empresas e não se tem um fácil acesso à tal reconstrução pelo fato dos aparelhos possuírem um alto valor no mercado. 
@@ -7,9 +12,9 @@ Nesse viés, pode-se tornar viável desenvolver um sistema de baixo custo de ima
 
 # 1-Conceitos Iniciais
 Para entender um pouco sobre a temática do projeto, temos que entender alguns termos que serão utilizados no decorrer dos textos:
-  - Imagem: Reprodução da figura de um objeto pela combinação dos raios de luz provenientes da mesma. 
-  - Espectro: Distribuição da intensidade de uma radiação em função de uma grandeza característica, como o comprimento de onda, energia, a frequência ou a massa.
-  - Bandas: Segmento do espectro eletromagnético.
+  - Imagem - Reprodução da figura de um objeto pela combinação dos raios de luz provenientes da mesma. 
+  - Espectro - Distribuição da intensidade de uma radiação em função de uma grandeza característica, como o comprimento de onda, energia, a frequência ou a massa.
+  - Bandas - Segmento do espectro eletromagnético.
     ![image](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/1b5f7034-d878-4a47-8a27-4e9b7e5e472d)
   - Imagem espectral – conjunto de imagens dentro do mesmo objeto representadas cada uma delas com diferentes comprimentos de onda.
   - Resolução Espectral – número e largura das porções do espectro eletromagnético medido pelo sensor.
