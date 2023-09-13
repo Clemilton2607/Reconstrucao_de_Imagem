@@ -62,9 +62,7 @@ OBS: As imagens das figuras estão na dimensão 1920 x 1080
 # 7-Dataset
 Levando em consideração o pouco tempo de duração do projeto, eu optei por utilizar um dataset da plataforma Kaggle com imagens de paisagens com dimensões de 150x150.
 
-![0](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/8cf4a226-ff22-4dd3-87a8-304cd7ac2635)
-
-![2](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/daa7200a-83ec-4aa2-890e-88d39252091c)
+![0](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/8cf4a226-ff22-4dd3-87a8-304cd7ac2635) ![2](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/daa7200a-83ec-4aa2-890e-88d39252091c)
 
 # 8-Pré-processamento
 Na parte de pré-processamento, eu apliquei filtros variando o comprimento de onda em 400-700nm e posteriormente apliquei a normalização MinMax para transformar os valores de [0-255] a [0-1].
