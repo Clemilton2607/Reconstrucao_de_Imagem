@@ -1,4 +1,4 @@
-# Projeto PIBIC-CNPq
+# Sistema de baixo custo de imagem hiper espectral usando reconstrução espectral baseada em deep learning (Reconstrução Hiper Espectral) - PIBIC-CNPq
 Pesquisador: Clemilton Barroso de Souza Furtado
 
 # Reconstrucao de Imagem utilizando Deep Learning
@@ -123,7 +123,7 @@ Imagem Reconstruidas
 # 12-Teste final utilizando imagens com 7 comprimentos de onda
 Com posse das imagens filtradas em 7 cores diferentes, eu criei um novo algoritmo de autoencoder que se adaptasse aos novos comprimentos de onda. Ademais, eu adicionei uma segunda rede neural que deixasse mais nítida a reconstrução feita pelo Autoencoder.
 
-Gráfico da Acurácia e Perda do Autoencoder
+## Gráfico da Acurácia e Perda do Autoencoder
 ![image](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/ba89773b-5fe3-47a8-a223-597f02e2cd25)
 
 Obtendo uma métrica de RMSE igual 0.0685, foram realizadas as reconstruções de imagens capturas pelo protótipo com dimensões de 150x150 e 1920x1080.
