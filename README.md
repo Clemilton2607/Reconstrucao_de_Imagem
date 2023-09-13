@@ -75,13 +75,6 @@ Na parte de pré-processamento, eu apliquei filtros variando o comprimento de on
 ![0_filtrada_vermelho](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/bb3b6f74-11c7-4bf0-81ba-a64edda261dc)
 ![0_filtrada_violeta](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/512cff93-3bc1-4dd5-acac-f8a6e7f79827)
 
-
-
-
-
-
-
-
 # 9-Deep Learning
 ## 9.1 Autoencoder 
 Um autoencoder é um tipo de rede neural artificial usada para aprender codificações eficientes de dados não rotulados. Um autoencoder aprende duas funções: uma função de codificação que transforma os dados de entrada e uma função de decodificação que recria os dados de entrada da representação codificada.
