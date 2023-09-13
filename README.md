@@ -107,12 +107,16 @@ RESULTADOS
 
 # 11- Testes Utilizando imagens com apenas 3 comprimentos de onda (RGB)
 Após realizar os testes iniciais com o dataset do Cifar10, utilizei o dataset do Kaggle com imagens filtradas em 3 comprimentos de ondas (RGB) e fiz a reconstrução de uma imagem de uma maçã.
-OBS: Na época em que essa reconstrução foi feita, eu não tinha em mão os protótipo montado, então não realizei testes com imagens capturadas pelo protótipo
+OBS: Na época em que essa reconstrução foi feita, eu não tinha em mão os protótipo montado, então não realizei testes com imagens capturadas pelo protótipo.
+
 Imagem Original
+
 ![image](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/a9785a36-4655-4ad8-9967-3acf7d960390)
 
 Imagem Reconstruidas
+
 ![image](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/505436c9-24a3-48eb-a207-83ea6c9a660e)
+
 
 ![image](https://github.com/Clemilton2607/Reconstrucao_de_Imagem/assets/79425563/133ef034-fcbc-499a-9f3d-381446bf6cf1)
 
